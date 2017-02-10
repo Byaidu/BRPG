@@ -1,0 +1,3 @@
+Graphics\Tilesets\0.bmp -448 0
+Graphics\Characters\NPC0.bmp 224 96 /TRANSPARENTBLT
+Graphics\Characters\Hero.bmp 256 96 /TRANSPARENTBLT
